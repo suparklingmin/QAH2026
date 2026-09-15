@@ -37,9 +37,9 @@
 |2강|2026-09-07(월)|R 프로그래밍: 환경 설정과 기본 문법|[HDR2e 1장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_1)|[슬라이드](./slides/02-20260907-r-programming.pdf)|
 |3강|2026-09-09(수)|탐색적 자료 분석 (1): 데이터 시각화|[HDR2e 2장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_2)|[슬라이드](./slides/03-20260909-grammar-of-graphics.pdf)|
 |4강|2026-09-14(월)|탐색적 자료 분석 (2): 데이터 변형|[HDR2e 3장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_3)|[슬라이드](./slides/04-20260914-organizing-data.pdf)|
-|5강|2026-09-16(수)|탐색적 자료 분석 (3): 여러 표 다루기|[HDR2e 4장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_4)||
-|6강|2026-09-21(월)|데이터 수집|[HDR2e 5장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_5)||
-|7강|2026-09-23(수)|행렬 대수|-||
+|5강|2026-09-16(수)|탐색적 자료 분석 (3): 여러 표 다루기|[HDR2e 4장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_4)|[슬라이드](./slides/05-20260916-restructuring-data.pdf)|
+|6강|2026-09-21(월)|데이터 수집|[HDR2e 5장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_5)|[슬라이드](./slides/06-20260921-collecting-data.pdf)|
+|7강|2026-09-23(수)|행렬 대수|-|[슬라이드](./slides/07-20260923-matrix-algebra.pdf)|
 |특강|2026-09-28(월)|LLM 튜토리얼|-||
 |8강|2026-09-30(수)|텍스트 데이터|[HDR2e 6장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_6)||
 |특강|2026-10-07(수)|인문데이터과학 특강 (1) 문학 데이터(가제)|-|-|
