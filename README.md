@@ -45,25 +45,32 @@
 |특강|2026-10-07(수)|인문데이터과학 특강 (1) 문학 데이터(가제)|-|-|
 |시험|2026-10-12(월)|중간고사|-|-|
 |9강|2026-10-19(월)|네트워크 데이터|[HDR2e 7장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_7)|[슬라이드](./slides/09-20261019-network-data.pdf)|
-|10강|2026-10-21(수)|네트워크 데이터 사례 연습|-|[슬라이드](./slides/10-20261021-network-case-study.pdf)|
-|11강|2026-10-26(월)|시계열 데이터|[HDR2e 8장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_8)||
-|12강|2026-10-28(수)|시계열 데이터 사례 연습|-|[논문(심형준 2023)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002987722)|
-|13강|2026-11-02(월)|공간 데이터|[HDR2e 9장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_9)||
-|14강|2026-11-04(수)|공간 데이터 사례 연습|-|[논문(권오영 2017)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002239286)|
+|10강|2026-10-21(수)|네트워크 데이터 사례 연습|[논문(임동민 2023)](http://doi.org/10.22372/ijkh.2023.28.2.219)|[슬라이드](./slides/10-20261021-network-case-study.pdf)|
+|11강|2026-10-26(월)|시계열 데이터|[HDR2e 8장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_8)|[슬라이드](./slides/11-20261026-temporal-data.pdf)|
+|12강|2026-10-28(수)|시계열 데이터 사례 연습|[논문(심형준 2023)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002987722)|[슬라이드](./slides/12-20261028-temporal-case-study.pdf)|
+|13강|2026-11-02(월)|공간 데이터|[HDR2e 9장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_9)|[슬라이드](./slides/13-20261102-spatial-data.pdf)|
+|14강|2026-11-04(수)|공간 데이터 사례 연습|[논문(권오영 2017)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002239286)|[슬라이드](./slides/14-20261104-spatial-case-study.pdf)|
 |15강|2026-11-09(월)|이미지 데이터|[HDR2e 10장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_10)||
-|16강|2026-11-11(수)|이미지 데이터 사례 연습|-|추가 예정|
+|16강|2026-11-11(수)|이미지 데이터 사례 연습|[논문(유승희 외 2023)](https://doi.org/10.36345/kacst.2023.41.4.003)||
 |시험|2026-11-16(월)|기말고사|||
 |특강|2026-11-18(수)|인문데이터과학 특강 (2) 데이터와 인간, 윤리(가제)|-|-|
-|발표|2026-11-25(수)|학생 논문 발제 및 튜토리얼 (1)|-||
-|발표|2026-11-30(월)|학생 논문 발제 및 튜토리얼 (2)|-||
-|발표|2026-12-01(수)|학생 논문 발제 및 튜토리얼 (3)|-||
+|발표|2026-11-25(수)|학생 논문 발제 및 튜토리얼 (1)|[논문(김미혜 2023)](https://doi.org/10.7318/KJFC/2023.38.1.26)|-|
+|발표|2026-11-30(월)|학생 논문 발제 및 튜토리얼 (2)|[논문(최유식 2023)](https://doi.org/10.29349/JCHG.2023.35.3.135)|-|
+|발표|2026-12-01(수)|학생 논문 발제 및 튜토리얼 (3)|[논문(이재연 2017)](https://doi.org/10.30760/inakos.2014..17.008)|-|
 
 ### 사례 연구
 
 + **네트워크 데이터**: 삼국시대 동아시아 국제 사회에서 외교 교섭에 참여한 주체로는 어떤 나라들이 있을까? 고구려·백제·신라 삼국은 교섭 네트워크에서 어떤 위치에 있었을까?
-    - 임동민. (2023). 〈‘네트워크 분석’을 활용한 한국 고대사 연구의 새로운 방법론 모색: 동진·16국 ~ 송·북위 시기 교섭 데이터를 중심으로〉. *International Journal of Korean History,* 28(2), 219–258. https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002987741
+    - Lim, Dongmin. (2023). Exploring a New Methodology for Studying Korean Ancient History Using Network Analysis: Focusing on negotiation data from the Eastern Jin and Sixteen Kingdoms to the Song and Northern Wei period. *International Journal of Korean History,* 28(2), 219–258. http://doi.org/10.22372/ijkh.2023.28.2.219
 + **시계열 데이터**: 우리가 일상적으로 사용하는 ‘성지’와 ‘성지순례’는 언제부터 유행하기 시작한 말일까? 어떤 계기로 시작되어 어떻게 오늘날의 용례를 갖추게 되었을까?
-    - 심형준. (2023). 〈성지 밈(聖地 meme) 소원 댓글의 유행과 온라인 종교문화상의 함의: ‘쿠키 닷컴’ 게시물 댓글 텍스트 분석을 중심으로〉. 《종교연구》 83(2), 287–324.
+    - 심형준. (2023). 〈성지 밈(聖地 meme) 소원 댓글의 유행과 온라인 종교문화상의 함의: ‘쿠키 닷컴’ 게시물 댓글 텍스트 분석을 중심으로〉. 《종교연구》 83(2), 287–324. https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002987722
 + **공간 데이터**: 고대 한반도에서 발견되는 유리구슬의 종류는 시간의 흐름에 따라 바뀌었다. 동북아시아 세계가 만난 동남아시아의 범위를 지도에 표시해서 확인해 보자.
-    - 권오영. (2017). 〈韓半島에 輸入된 琉璃구슬의 變化過程과 經路: 初期鐵器~原三國期를 중심으로〉. 《호서고고학》 37, 38–69.
+    - 권오영. (2017). 〈韓半島에 輸入된 琉璃구슬의 變化過程과 經路: 初期鐵器~原三國期를 중심으로〉. 《호서고고학》 37, 38–69. https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002239286
++ **이미지 데이터**: 웹툰 섬네일의 색상 등 이미지로서의 특징이 인기에 미치는 영향을 확인해 보자.
+    - 유승희·김호림·최진욱. (2023). 〈한국 웹툰 플랫폼의 섬네일 특징이 웹툰 선택에 미치는 영향: 이미지 분석을 적용하여〉. 《상품학연구》 41(4), 17–25. https://doi.org/10.36345/kacst.2023.41.4.003
 
+### 학생 발제 논문
+
+1. 김미혜. (2023). 〈조선왕조실록 텍스트 빈도 분석을 통한 조선시대 곡물에 관한 인식 특성 고찰〉. 《한국식생활문화학회지》 38(1), 26–37쪽. https://doi.org/10.7318/KJFC/2023.38.1.26
+2. 최유식. (2023). 〈디지털 인문학으로 분석한 문화재 안내판의 분포와 어휘〉. 《문화역사지리》 35(3), 135–157쪽. https://doi.org/10.29349/JCHG.2023.35.3.135
+3. 이재연. (2014). 〈작가, 매체, 네트워크 – 1920년대 소설계의 거시적 조망을 위한 시론〉. 《사이》 17, 국제한국문학문화학회, 257–301쪽. https://doi.org/10.30760/inakos.2014..17.008
