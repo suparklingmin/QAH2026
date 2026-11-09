@@ -40,7 +40,7 @@
 |5강|2026-09-16(수)|탐색적 자료 분석 (3): 여러 표 다루기|[HDR2e 4장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_4)|[슬라이드](./slides/05-20260916-restructuring-data.pdf)|
 |6강|2026-09-21(월)|데이터 수집|[HDR2e 5장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_5)|[슬라이드](./slides/06-20260921-collecting-data.pdf)|
 |7강|2026-09-23(수)|행렬 대수|-|[슬라이드](./slides/07-20260923-matrix-algebra.pdf)|
-|특강|2026-09-28(월)|LLM 튜토리얼|-||
+|특강|2026-09-28(월)|LLM 튜토리얼|-|-|
 |8강|2026-09-30(수)|텍스트 데이터|[HDR2e 6장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_6)|[슬라이드](./slides/08-20260930-textual-data.pdf)|
 |특강|2026-10-07(수)|인문데이터과학 특강 (1) 문학 데이터(가제)|-|-|
 |시험|2026-10-12(월)|중간고사|-|-|
@@ -50,9 +50,9 @@
 |12강|2026-10-28(수)|시계열 데이터 사례 연습|[논문(심형준 2023)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002987722)|[슬라이드](./slides/12-20261028-temporal-case-study.pdf)|
 |13강|2026-11-02(월)|공간 데이터|[HDR2e 9장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_9)|[슬라이드](./slides/13-20261102-spatial-data.pdf)|
 |14강|2026-11-04(수)|공간 데이터 사례 연습|[논문(권오영 2017)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002239286)|[슬라이드](./slides/14-20261104-spatial-case-study.pdf)|
-|15강|2026-11-09(월)|이미지 데이터|[HDR2e 10장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_10)||
+|15강|2026-11-09(월)|이미지 데이터|[HDR2e 10장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_10)|[슬라이드](./slides/15-20261109-image-data.pdf)|
 |16강|2026-11-11(수)|이미지 데이터 사례 연습|[논문(유승희 외 2023)](https://doi.org/10.36345/kacst.2023.41.4.003)||
-|시험|2026-11-16(월)|기말고사|||
+|시험|2026-11-16(월)|기말고사|-|-|
 |특강|2026-11-18(수)|인문데이터과학 특강 (2) 데이터와 인간, 윤리(가제)|-|-|
 |발표|2026-11-25(수)|학생 논문 발제 및 튜토리얼 (1)|[논문(김미혜 2023)](https://doi.org/10.7318/KJFC/2023.38.1.26)|-|
 |발표|2026-11-30(월)|학생 논문 발제 및 튜토리얼 (2)|[논문(최유식 2023)](https://doi.org/10.29349/JCHG.2023.35.3.135)|-|
