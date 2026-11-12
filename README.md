@@ -29,7 +29,7 @@
 
 - Posit Cloud https://posit.cloud
 
-## 📅 강의 일정 및 수업 자료 (추가 중)
+## 📅 강의 일정 및 수업 자료
 
 |회차|날짜|주제|교재|자료|
 |--|--|--|--|--|
@@ -51,7 +51,7 @@
 |13강|2026-11-02(월)|공간 데이터|[HDR2e 9장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_9)|[슬라이드](./slides/13-20261102-spatial-data.pdf)|
 |14강|2026-11-04(수)|공간 데이터 사례 연습|[논문(권오영 2017)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002239286)|[슬라이드](./slides/14-20261104-spatial-case-study.pdf)|
 |15강|2026-11-09(월)|이미지 데이터|[HDR2e 10장](https://link.springer.com/chapter/10.1007/978-3-031-62566-4_10)|[슬라이드](./slides/15-20261109-image-data.pdf)|
-|16강|2026-11-11(수)|이미지 데이터 사례 연습|[논문(유승희 외 2023)](https://doi.org/10.36345/kacst.2023.41.4.003)||
+|16강|2026-11-11(수)|이미지 데이터 사례 연습|[논문(유승희 외 2023)](https://doi.org/10.36345/kacst.2023.41.4.003)|[슬라이드](./slides/16-20261111-image-case-study.pdf)|
 |시험|2026-11-16(월)|기말고사|-|-|
 |특강|2026-11-18(수)|인문데이터과학 특강 (2) 데이터와 인간, 윤리(가제)|-|-|
 |발표|2026-11-25(수)|학생 논문 발제 및 튜토리얼 (1)|[논문(김미혜 2023)](https://doi.org/10.7318/KJFC/2023.38.1.26)|-|
